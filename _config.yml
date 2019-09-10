@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-pygments:         true
+pygments:         false
 
 # Permalinks
 permalink:        pretty
@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            JoyBus-欢乐巴士
 tagline:          'JoyBus.TK'
-description:      'Welcome to <a href="http://Laojie.TK" target="_blank">JoyBus.TK</a>.'
+description:      'Welcome to <a href="http://JoyBus.TK" target="_blank">JoyBus.TK</a>.'
 url:              http://JoyBus.TK
 
 author:
