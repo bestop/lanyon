@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Laojie
-tagline:          'Laojie.TK'
-description:      'Welcome to <a href="http://Laojie.TK" target="_blank">Laojie.TK</a>.'
-url:              http://Laojie.TK
+title:            JoyBus-欢乐巴士
+tagline:          'JoyBus.TK'
+description:      'Welcome to <a href="http://Laojie.TK" target="_blank">JoyBus.TK</a>.'
+url:              http://JoyBus.TK
 
 author:
-  name:           'Laojie'
-  url:            https://Laojie.TK
+  name:           'JoyBus'
+  url:            https://JoyBus.TK
 
 paginate:         5
 
