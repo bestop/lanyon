@@ -546,7 +546,7 @@ title: 英文启蒙界大咖，廖彩杏、吴敏兰、汪培珽
 	<span style="font-size:16px;">&nbsp;</span> 
 </p>
 <p style="text-align:justify;background:white;">
-	<span style="font-size:16px;">总的来说，从难度上来说，廖单&lt;吴单&lt;汪单。题解答</span> 
+	<span style="font-size:16px;">总的来说，从难度上来说，廖单&lt;吴单&lt;汪单。</span> 
 </p>
 <p style="text-align:justify;background:white;">
 	<strong><span style="font-size:16px;">&nbsp; &nbsp; &nbsp;1. </span></strong><strong><span style="font-size:16px;">三大书单各有特色，我需要全部都买吗</span></strong><strong><span style="font-size:16px;">？</span></strong> 
