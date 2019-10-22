@@ -118,6 +118,10 @@ Mathstart L3 19 sluggers car wash<br />
 Mathstart L3 20 Too Many Kangaroo Things To Do<br />
 Mathstart L3 21 Treasure Map
 </p>
-
+<p>
+延伸阅读：<br />
+<a href="http://mini.eastday.com/bdmip/180414224106084.html" target="_blank">MathStart 数学启蒙:学数学，学英语，还能锻炼身体?</a> 
+<br />
+</p>
 
 
