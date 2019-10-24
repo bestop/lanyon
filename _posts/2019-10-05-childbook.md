@@ -2,6 +2,8 @@
 layout: post
 title: 英文启蒙界大咖，廖彩杏、吴敏兰、汪培珽
 ---
+
+![英语启蒙书单_JoyBus.TK](/public/list3.jpg)
 <p>
 	<span style="font-size:18px;background-color:white;">导读：</span>
 </p>
