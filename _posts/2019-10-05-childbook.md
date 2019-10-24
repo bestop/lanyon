@@ -571,4 +571,12 @@ title: 英文启蒙界大咖，廖彩杏、吴敏兰、汪培珽
 <p class="MsoNormal" style="background:white;">
 	<span style="font-size:18px;">个人认为，廖彩杏老师推荐的书单是最适合中国大部分的家长的，对家长的英文程度要求不多，只需要准备材料、播放、做记录，相对来说，吴单强调的亲子共读及汪单强调的念绘本、翻译等等，对家长的英文程度都是有一定要求的。</span> 
 </p>
-
+<p>
+延伸阅读：<br />
+<a href="https://www.zhihu.com/question/60245836" target="_blank">三大英语启蒙书单（廖彩杏书单、吴敏兰书单、汪培珽书单）的主要区别？</a> 
+<br />
+</p>
+<p>
+相关资源获取，扫码关注微信公众号：<br>          
+<img src="/public/joybuswx.jpg"  alt="上欢乐巴士-JoyBus.TK" width="200"/>
+</p>
