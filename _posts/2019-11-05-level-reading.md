@@ -3,8 +3,7 @@ layout: post
 title: RAZ/海尼曼/牛津阅读树-分级阅读怎么选？
 ---
 
-![RAZ/海尼曼/牛津阅读树-分级阅读怎么选？_JoyBus.TK](/public/fjyd.jpg)
-
+<img src="/public/fjyd.jp" alt="RAZ/海尼曼/牛津阅读树-分级阅读怎么选？_JoyBus.TK">
 <p>
 	在英语学习方面，很多爸爸妈妈都会将绘本作为孩子英语启蒙的首选。除了绘本之外，分级读物也是一种很好的英语学习方式。
 </p>
